@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2195-time-needed-to-buy-tickets](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1656-count-good-triplets](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1656-count-good-triplets) |
 | [2037-count-square-sum-triples](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2037-count-square-sum-triples) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2507-number-of-common-factors](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2507-number-of-common-factors) |
 ## Number Theory
 |  |
@@ -166,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0389-find-the-difference) |
 | [1848-sum-of-unique-elements](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1848-sum-of-unique-elements) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Bit Manipulation
 |  |
@@ -205,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 ## Greedy
 |  |
 | ------- |
