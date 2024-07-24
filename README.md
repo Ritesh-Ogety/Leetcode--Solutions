@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0504-base-7) |
+| [0507-perfect-number](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0507-perfect-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1610-xor-operation-in-an-array) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2298-count-integers-with-even-digit-sum) |
