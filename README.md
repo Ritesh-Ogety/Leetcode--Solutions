@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1013-fibonacci-number](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1610-xor-operation-in-an-array) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2037-count-square-sum-triples](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2037-count-square-sum-triples) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2383-add-two-integers](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2383-add-two-integers) |
