@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0035-search-insert-position) |
@@ -285,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0088-merge-sorted-array) |
