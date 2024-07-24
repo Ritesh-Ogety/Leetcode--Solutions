@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0085-maximal-rectangle) |
 | [1013-fibonacci-number](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1013-fibonacci-number) |
 ## Tree
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0371-sum-of-two-integers) |
@@ -200,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1013-fibonacci-number) |
 ## Queue
 |  |
