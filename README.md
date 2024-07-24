@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0079-word-search) |
+| [0205-isomorphic-strings](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0205-isomorphic-strings) |
 | [0389-find-the-difference](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0412-fizz-buzz) |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0205-isomorphic-strings) |
 | [0389-find-the-difference](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0389-find-the-difference) |
 | [1848-sum-of-unique-elements](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1848-sum-of-unique-elements) |
 ## Bit Manipulation
