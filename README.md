@@ -28,4 +28,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0053-maximum-subarray) |
+## Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0404-sum-of-left-leaves) |
+## Depth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0404-sum-of-left-leaves) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0404-sum-of-left-leaves) |
+## Binary Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
