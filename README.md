@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0085-maximal-rectangle) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1002-maximum-width-ramp](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1002-maximum-width-ramp) |
 | [1031-add-to-array-form-of-integer](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1603-running-sum-of-1d-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1603-running-sum-of-1d-array) |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0412-fizz-buzz](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0415-add-strings) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0987-reveal-cards-in-increasing-order) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2298-count-integers-with-even-digit-sum) |
 ## Enumeration
 |  |
@@ -136,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0389-find-the-difference) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Brainteaser
 |  |
 | ------- |
@@ -162,4 +165,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1013-fibonacci-number) |
+## Queue
+|  |
+| ------- |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0987-reveal-cards-in-increasing-order) |
 <!---LeetCode Topics End-->
