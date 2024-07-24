@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1013-fibonacci-number) |
 ## Tree
 |  |
