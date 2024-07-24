@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1002-maximum-width-ramp](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1002-maximum-width-ramp) |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0268-missing-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -146,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0371-sum-of-two-integers) |
@@ -200,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0202-happy-number](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0205-isomorphic-strings) |
+| [0268-missing-number](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -214,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0029-divide-two-integers](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0029-divide-two-integers) |
 | [0191-number-of-1-bits](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -223,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0389-find-the-difference) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
