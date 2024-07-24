@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0202-happy-number) |
@@ -225,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1013-fibonacci-number) |
