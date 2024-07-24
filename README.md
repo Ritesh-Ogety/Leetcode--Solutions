@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0326-power-of-three) |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0029-divide-two-integers) |
 | [0191-number-of-1-bits](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0389-find-the-difference) |
