@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0415-add-strings](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0415-add-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0742-to-lower-case) |
+| [1252-break-a-palindrome](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1252-break-a-palindrome) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1666-make-the-string-great](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -218,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0402-remove-k-digits) |
+| [1252-break-a-palindrome](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1252-break-a-palindrome) |
 ## Memoization
 |  |
 | ------- |
