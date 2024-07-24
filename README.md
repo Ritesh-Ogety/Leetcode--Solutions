@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0085-maximal-rectangle) |
+| [0204-count-primes](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0292-nim-game) |
@@ -168,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1656-count-good-triplets) |
 | [2037-count-square-sum-triples](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2037-count-square-sum-triples) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2442-number-of-arithmetic-triplets) |
@@ -175,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0258-add-digits) |
 | [2507-number-of-common-factors](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2507-number-of-common-factors) |
 ## Hash Table
