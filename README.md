@@ -73,9 +73,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0412-fizz-buzz) |
+| [2507-number-of-common-factors](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2507-number-of-common-factors) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0412-fizz-buzz) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2507-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
