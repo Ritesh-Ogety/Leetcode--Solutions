@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1603-running-sum-of-1d-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1848-sum-of-unique-elements](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1848-sum-of-unique-elements) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0389-find-the-difference) |
+| [1848-sum-of-unique-elements](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1848-sum-of-unique-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -181,4 +183,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0987-reveal-cards-in-increasing-order](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2195-time-needed-to-buy-tickets) |
+## Counting
+|  |
+| ------- |
+| [1848-sum-of-unique-elements](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1848-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
