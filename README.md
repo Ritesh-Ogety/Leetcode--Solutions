@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
@@ -227,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0217-contains-duplicate) |
@@ -260,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0242-valid-anagram) |
@@ -327,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1635-number-of-good-pairs](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1848-sum-of-unique-elements) |
