@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3379-score-of-a-string](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3379-score-of-a-string) |
 ## Stack
 |  |
@@ -201,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1848-sum-of-unique-elements](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1848-sum-of-unique-elements) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
 |  |
 | ------- |
