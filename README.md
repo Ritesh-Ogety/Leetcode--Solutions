@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0085-maximal-rectangle) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1002-maximum-width-ramp](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1002-maximum-width-ramp) |
+| [1031-add-to-array-form-of-integer](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1603-running-sum-of-1d-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0371-sum-of-two-integers](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0415-add-strings) |
+| [1031-add-to-array-form-of-integer](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1610-xor-operation-in-an-array) |
 | [2507-number-of-common-factors](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2507-number-of-common-factors) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
