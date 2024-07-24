@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0204-count-primes) |
@@ -250,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0242-valid-anagram) |
@@ -281,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0202-happy-number) |
