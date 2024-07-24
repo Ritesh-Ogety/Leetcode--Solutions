@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
