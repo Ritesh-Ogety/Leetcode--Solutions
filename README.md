@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0415-add-strings) |
@@ -114,4 +115,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0292-nim-game) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
