@@ -44,4 +44,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0404-sum-of-left-leaves) |
+## String
+|  |
+| ------- |
+| [3379-score-of-a-string](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3379-score-of-a-string) |
 <!---LeetCode Topics End-->
