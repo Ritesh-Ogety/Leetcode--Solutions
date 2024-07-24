@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0085-maximal-rectangle) |
+| [0136-single-number](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0268-missing-number) |
