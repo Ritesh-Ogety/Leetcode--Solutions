@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1002-maximum-width-ramp](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1002-maximum-width-ramp) |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -213,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -240,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0389-find-the-difference) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -271,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2442-number-of-arithmetic-triplets) |
