@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0085-maximal-rectangle) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [1002-maximum-width-ramp](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1002-maximum-width-ramp) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Binary Search
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0085-maximal-rectangle) |
+| [1002-maximum-width-ramp](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1002-maximum-width-ramp) |
 ## Matrix
 |  |
 | ------- |
@@ -66,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0085-maximal-rectangle) |
+| [1002-maximum-width-ramp](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1002-maximum-width-ramp) |
 ## Math
 |  |
 | ------- |
