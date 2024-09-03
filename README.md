@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1013-fibonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1250-longest-common-subsequence) |
 ## Tree
 |  |
 | ------- |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0415-add-strings](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0415-add-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0742-to-lower-case) |
+| [1250-longest-common-subsequence](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1250-longest-common-subsequence) |
 | [1252-break-a-palindrome](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1252-break-a-palindrome) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1666-make-the-string-great](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1666-make-the-string-great) |
