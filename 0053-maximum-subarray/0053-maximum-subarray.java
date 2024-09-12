@@ -1,3 +1,25 @@
+class Solution {
+    public int maxSubArray(int[] nums) 
+    {
+        int n=nums.length;
+        int cSum=0;
+        int mSum=Integer.MIN_VALUE;
+
+        if(n==0) return nums[0];
+        for(int i=0;i<n;i++)
+        {
+            cSum+=nums[i];
+            mSum=Math.max(cSum,mSum);
+            if(cSum<0)
+            {
+                cSum=0;
+            }
+        }
+        return mSum;
+    }
+}
+
+/*
 class Solution 
 {
     public int maxSubArray(int[] nums) 
@@ -21,3 +43,4 @@ class Solution
         return mSum;
     }
 }
+*/
