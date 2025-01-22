@@ -2,7 +2,7 @@ class Solution
 {
     public boolean checkPair(char val1,char val2)
     {
-        return (val1=='('&&val2==')')||(val1=='['&&val2==']')||(val1=='{'&&val2=='}');
+        return (val1=='('&&val2==')' || val1=='['&&val2==']'|| val1=='{'&&val2=='}');
     }
     public boolean isValid(String s) 
     {
@@ -10,7 +10,7 @@ class Solution
         for(int i=0;i<s.length();i++)
         {
             char pchar=s.charAt(i);
-            if(pchar=='('||pchar=='['||pchar=='{')
+            if(pchar=='(' || pchar=='[' || pchar=='{')
             {
                 x.push(pchar);
             }
@@ -25,11 +25,10 @@ class Solution
         }
         return x.isEmpty();
     }
-
-
     public static void main(String[] args)
     {
         Solution s1=new Solution();
+        
         System.out.println(s1.isValid("()"));
     }
 }
