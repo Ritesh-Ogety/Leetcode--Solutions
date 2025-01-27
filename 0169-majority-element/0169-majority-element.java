@@ -40,4 +40,10 @@ class Solution {
         }
     }
 
+    public static void main(String[] args) {
+        int[] arr = {3, 2, 3};
+        Solution s1 = new Solution();
+        int res = s1.majorityElement(arr);
+        System.out.println(res);
+    }
 }
