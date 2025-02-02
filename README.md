@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0792-binary-search](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0792-binary-search) |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -259,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0389-find-the-difference) |
@@ -293,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0389-find-the-difference) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -361,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1635-number-of-good-pairs](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1635-number-of-good-pairs) |
@@ -374,10 +379,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Design
 |  |
 | ------- |
@@ -398,4 +405,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1827-invalid-tweets](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1908-recyclable-and-low-fat-products) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
