@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3321-type-of-triangle](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3321-type-of-triangle) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3429-special-array-i) |
 ## Binary Search
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2298-count-integers-with-even-digit-sum) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3447-clear-digits) |
 ## Enumeration
 |  |
@@ -404,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0948-sort-an-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Quickselect
 |  |
 | ------- |
