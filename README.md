@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0948-sort-an-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0987-reveal-cards-in-increasing-order) |
