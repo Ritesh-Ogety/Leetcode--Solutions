@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1250-longest-common-subsequence](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1250-longest-common-subsequence) |
 | [1252-break-a-palindrome](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1252-break-a-palindrome) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1666-make-the-string-great](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -299,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0940-fruit-into-baskets](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0940-fruit-into-baskets) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1635-number-of-good-pairs](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
