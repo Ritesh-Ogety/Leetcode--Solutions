@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2442-number-of-arithmetic-triplets](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -327,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2107-find-unique-binary-string](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2107-find-unique-binary-string) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
@@ -363,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3321-type-of-triangle](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3321-type-of-triangle) |
 ## Brainteaser
@@ -403,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1019-squares-of-a-sorted-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2442-number-of-arithmetic-triplets) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
 |  |
