@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0696-count-binary-substrings) |
 | [0742-to-lower-case](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0742-to-lower-case) |
@@ -298,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0940-fruit-into-baskets](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0940-fruit-into-baskets) |
