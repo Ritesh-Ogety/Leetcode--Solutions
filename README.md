@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0079-word-search) |
@@ -449,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0079-word-search) |
 | [2107-find-unique-binary-string](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2107-find-unique-binary-string) |
 ## Heap (Priority Queue)
