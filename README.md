@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1635-number-of-good-pairs](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1656-count-good-triplets) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1791-richest-customer-wealth](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1791-richest-customer-wealth) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1848-sum-of-unique-elements](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1848-sum-of-unique-elements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -240,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0079-word-search](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0085-maximal-rectangle) |
+| [1791-richest-customer-wealth](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1791-richest-customer-wealth) |
 ## Monotonic Stack
 |  |
 | ------- |
