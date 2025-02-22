@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0966-binary-subarrays-with-sum](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1250-longest-common-subsequence](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1250-longest-common-subsequence) |
 | [1252-break-a-palindrome](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1252-break-a-palindrome) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1666-make-the-string-great](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -269,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1031-add-to-array-form-of-integer](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1610-xor-operation-in-an-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1635-number-of-good-pairs) |
