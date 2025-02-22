@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3429-special-array-i](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3429-special-array-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3702-maximum-subarray-with-equal-products) |
+| [3723-sum-of-good-numbers](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3723-sum-of-good-numbers) |
 ## Binary Search
 |  |
 | ------- |
