@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3429-special-array-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Binary Search
 |  |
 | ------- |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -279,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3321-type-of-triangle) |
 | [3371-harshad-number](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3371-harshad-number) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Simulation
 |  |
 | ------- |
@@ -302,12 +305,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2037-count-square-sum-triples](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2037-count-square-sum-triples) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2507-number-of-common-factors](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2507-number-of-common-factors) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0258-add-digits) |
 | [2507-number-of-common-factors](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2507-number-of-common-factors) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Hash Table
 |  |
 | ------- |
