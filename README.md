@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1848-sum-of-unique-elements](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1848-sum-of-unique-elements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2107-find-unique-binary-string](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2107-find-unique-binary-string) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1370-count-number-of-nice-subarrays](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Prefix Sum
@@ -374,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0987-reveal-cards-in-increasing-order](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
