@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1791-richest-customer-wealth) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1833-find-the-highest-altitude](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1848-sum-of-unique-elements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2107-find-unique-binary-string](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2107-find-unique-binary-string) |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-product-of-the-last-k-numbers](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1603-running-sum-of-1d-array) |
+| [1833-find-the-highest-altitude](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1833-find-the-highest-altitude) |
 ## Divide and Conquer
 |  |
 | ------- |
