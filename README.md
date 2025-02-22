@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0792-binary-search) |
 | [0940-fruit-into-baskets](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0941-sort-array-by-parity) |
@@ -225,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0402-remove-k-digits) |
+| [0682-baseball-game](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0682-baseball-game) |
 | [1002-maximum-width-ramp](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1002-maximum-width-ramp) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1666-make-the-string-great](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1666-make-the-string-great) |
@@ -295,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0682-baseball-game) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
