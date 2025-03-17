@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -361,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1848-sum-of-unique-elements](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2107-find-unique-binary-string) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -380,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1610-xor-operation-in-an-array](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1610-xor-operation-in-an-array) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Sorting
@@ -493,6 +496,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1635-number-of-good-pairs](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Backtracking
