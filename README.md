@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2698-find-the-array-concatenation-value](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2698-find-the-array-concatenation-value) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3321-type-of-triangle](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3321-type-of-triangle) |
