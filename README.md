@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3429-special-array-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3723-sum-of-good-numbers](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3723-sum-of-good-numbers) |
 ## Binary Search
@@ -379,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3193-maximum-strong-pair-xor-i](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Bit Manipulation
 |  |
 | ------- |
