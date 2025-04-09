@@ -233,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3379-score-of-a-string](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3447-clear-digits) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
+| [3811-reverse-degree-of-a-string](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3811-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -327,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2698-find-the-array-concatenation-value](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/2698-find-the-array-concatenation-value) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3447-clear-digits) |
+| [3811-reverse-degree-of-a-string](https://github.com/Ritesh-Ogety/Leetcode--Solutions/tree/master/3811-reverse-degree-of-a-string) |
 ## Enumeration
 |  |
 | ------- |
