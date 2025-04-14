@@ -22,13 +22,4 @@ class Solution
         }
         return count;
     }
-
-
-
-    public static void main(String[] args)
-    {
-        int [] arr={3,0,1,1,9,7};
-        Solution s1=new Solution();
-        System.out.println(s1.countGoodTriplets(arr,7,2,3));
-    }
 }
